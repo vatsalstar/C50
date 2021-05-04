@@ -4,8 +4,11 @@
 }
 .origami{
     border-radius: 20px;
-    background-color: white;
-
+    background-color: #ff69b4;
     width: 310px;
     font-family: fantasy;
+}
+body{
+    background-color: #6495ed;
+
 }
