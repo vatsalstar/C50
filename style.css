@@ -10,5 +10,22 @@
 }
 body{
     background-color: #6495ed;
+}
+a:link{
+    color:white;
+}
+a:visited{
+ color:white;
+}
+.origami:hover{
+   opacity: 0.33;
+}
 
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h2{
+    margin-left: 625px;
 }
